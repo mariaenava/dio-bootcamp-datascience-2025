@@ -1,19 +1,17 @@
 # Bootcamp Ciência de Dados com Python 2025 | DIO e Santander
 
 ## Introdução à Ciência de Dados e Python
-### Desafio | 
-### Desafio | 
+### Desafio de Código | 
 
 ## Introdução a Banco de Dados Relacionais, Não Relacionais e ETL
-### Desafio | 
-### Desafio | 
-### Desafio | 
+### Desafio de Código | 
+### Desafio de Projeto | 
 
 ## Análise de Dados com Excel e Copilot
-### Desafio | 
+### Desafio de Projeto | 
 
 ## Noções de Computação em Nuvem
-### Desafio | 
+### Desafio de Projeto | 
 
 ## Fundamentos e Técnicas de Machine Learning
 ### Desafio | 
