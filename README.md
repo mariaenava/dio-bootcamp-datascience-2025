@@ -1,7 +1,9 @@
 # Bootcamp Ciência de Dados com Python 2025 | DIO e Santander
 
 ## Introdução à Ciência de Dados e Python
-### Desafio de Código | 
+### Desafio de Código 
+- [Calculando o Valor da Remessa](remessa.py)
+- [Calculando a Capacidade de Armazenagem](armazenagem.py)
 
 ## Introdução a Banco de Dados Relacionais, Não Relacionais e ETL
 ### Desafio de Código | 
