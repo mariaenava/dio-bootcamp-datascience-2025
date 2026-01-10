@@ -2,11 +2,13 @@
 
 ## Introdução à Ciência de Dados e Python
 ### Desafio de Código 
-- [Calculando o Valor da Remessa](remessa.py)
-- [Calculando a Capacidade de Armazenagem](armazenagem.py)
+- [Calculando o Valor da Remessa]()
+- [Calculando a Capacidade de Armazenagem]()
 
 ## Introdução a Banco de Dados Relacionais, Não Relacionais e ETL
-### Desafio de Código | 
+### Desafio de Código 
+- [Gerando Relatório de Pedidos por Embalagem]()
+- [Exibindo Exportações Agrupadas por País]()
 ### Desafio de Projeto | 
 
 ## Análise de Dados com Excel e Copilot
